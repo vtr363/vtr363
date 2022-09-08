@@ -1,7 +1,7 @@
 <h1 align='center'><img src="https://raw.githubusercontent.com/kaueMarques/kaueMarques/master/hi.gif" height="30px"> Hi , I´m Victor.<br>Welcome to my github!</h1>
 <br />
 
-* 🔭 I’m currently studying System Analysis and Development<br>
+* 🔭 I’m currently studying System Analysis and Development at [Senac](https://www.rj.senac.br/faculdade-senac/)<br>
 * 🌱 Currently focused on learning and practicing Angular / Javascript / Java / Python <br>
 * ⚡ Love games and good stories
  
