@@ -3,7 +3,6 @@
 
 * 🔭 I’m currently studying System Analysis and Development at [Senac](https://www.rj.senac.br/faculdade-senac/)<br>
 * 🌱 Currently focused on learning and practicing Angular / Javascript / Java / Python <br>
-* ⚡ Love games and good stories
  
 <br /> 
 
