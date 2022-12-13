@@ -36,7 +36,7 @@
 <h2 align='center'>📧 Find me </h2>
 
 <p align='center'>
- <a href = "https://www.linkedin.com/in/victor-m-r/">
+ <a href = "https://www.linkedin.com/in/vtr363/">
   <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn logo" />
  </a>
  <a href="mailto:victor.m.rocha.vr@gmail.com">
